@@ -1,0 +1,1 @@
+Hello, this is my website that shows my journey as a computer science student. It shows some of the usefull things am getting in my journey that l find usefull and l think they will be useful to others too.
