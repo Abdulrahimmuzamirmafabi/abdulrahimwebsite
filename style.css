@@ -82,7 +82,7 @@ p {
 }
 
 #about h3{
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 #about ul{
@@ -229,6 +229,12 @@ footer a:hover{
 .fa-twitter,.fa-linkedin, .fa-instagram{
     margin-right:  10px;
     font-size: 20px;
+}
+
+#styleAll{
+    padding:0;
+    background-color: #0e0513;
+    color: #000;
 }
 
 
